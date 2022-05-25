@@ -1,0 +1,72 @@
+.BottomCard{
+    display: flex;
+    margin-top:60px;
+}
+.CardOne{
+    width: 320px;
+    height: 360px;
+    margin-left:22%;
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+}
+.CardTwo{
+    width: 430px;
+    margin-left:4%;
+    height: 360px;
+    border-radius: 5px;
+    background-color: white;
+    display: flex;
+}
+.btn{
+    height:15px;
+}
+
+.Image1{
+   height: 240px;
+   width: 300px;
+   padding-left:9px;
+   border-radius: 6px;
+}
+.Image2{
+    height: 240px;
+    width: 410px;
+    margin-left: 10px;
+    border-radius: 6px;
+ }
+.button1{
+    margin-top:10px;
+    margin-left: 10px;
+    width: 120px;
+    height: 34px;
+    background-color: rgb(235, 17, 17);
+    border: none;
+    color:white;
+}
+.Textbtn1{
+    margin-top:5px;
+}
+.Textbtn2{
+   margin-top: 5px;
+}
+.button2{
+    margin-top:10px;
+    margin-left: 5px;
+    width: 155px;
+    height: 34px;
+    background-color:rgb(0, 110, 255);
+    border: none;
+    color:white;
+}
+.MainText{
+        margin-left:50px;
+}
+.Secondbtn2{
+    margin-top:10px;
+    margin-left: 18px;
+    width: 159px;
+    height: 34px;
+    background-color: rgb(38, 65, 216);
+    border: none;
+    color:white;
+}
